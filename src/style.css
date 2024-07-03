@@ -41,3 +41,8 @@ button{
     padding: 20px;
     border-radius: 5px;
 }
+input{
+    border: 0;
+    background-color: transparent;
+    font-size: 1rem;
+}
