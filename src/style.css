@@ -19,6 +19,7 @@ aside{
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
 }
 table{
     width: 100%;
@@ -31,6 +32,7 @@ td{
 tr{
     display: flex;
     justify-content:space-between;
+    padding:1%;
 }
 button{
     margin-top: 1%;
